@@ -1,0 +1,27 @@
+.big-container {
+  border: #1a361a 0.5rem solid;
+  margin: auto;
+  margin-bottom: auto;
+  background-color: rgb(255, 203, 135);
+}
+.main-header {
+  text-align: center;
+  margin: auto;
+  font-size: 1.5rem;
+  font-weight: 800;
+  font-family: helvetica;
+  color: #1a361a;
+  margin-top: 3rem;
+  background-color: antiquewhite;
+  border: 0.5rem 0 0.5rem 0;
+}
+.background-img {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  height: 30.5rem;
+  width: 87.375rem;
+  margin: auto;
+  padding-top: 15rem;
+  padding-bottom: 7rem;
+}
